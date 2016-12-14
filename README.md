@@ -3,8 +3,8 @@
 Script Information
 
 Created Date - 12/5/2016
-Last Updated - 12/7/2016
-Version - 2.0
+Last Updated - 12/14/2016
+Version - 3.0
 Created By - Phillip Marshall
 
 **Script Pre-requisites**
