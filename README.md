@@ -13,15 +13,15 @@ Created By - Phillip Marshall
 
 **Script Process**
 
-1)	Prompts the user for the computer name to run the script against (or you can just enter nothing for local host).
-2)	Tests PS Remoting against that server to verify the user has access.
-3)	Gathers the current free space on the C drive.
-4)	Cleans all temp paths.
-5) Gathers all user profiles.
-6) Cleans each user profile's temp and downloads folder.
-7)	Tests for and cleans old Symantec virus definitions. (The old folders still stay they do not appear to be removeable.)
-8)	Runs CleanMGR
-9)	Runs DISM
-10) Removes any IIS logs older than 30 days for any website.
-11) Removes unnecessary windows update files.
-12) Cleans all items older than x days from the recycle bin. (Default of 7)
+1.	Prompts the user for the computer name to run the script against (or you can just enter nothing for local host).
+2.	Tests PS Remoting against that server to verify the user has access.
+3.	Gathers the current free space on the C drive.
+4.	Cleans all temp paths.
+5. Gathers all user profiles.
+6. Cleans each user profile's temp and downloads folder.
+7.	Tests for and cleans old Symantec virus definitions. (The old folders still stay they do not appear to be removeable.)
+8.	Runs CleanMGR
+9.	Runs DISM
+10. Removes any IIS logs older than 30 days for any website.
+11. Removes unnecessary windows update files.
+12. Cleans all items older than x days from the recycle bin. (Default of 7)
